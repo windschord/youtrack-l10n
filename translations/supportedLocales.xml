@@ -8,4 +8,8 @@
         <name>Polski (community)</name>
         <locale>pl_PL</locale>
     </localeEntry>
+    <localeEntry>
+        <name>Japanese (community)</name>
+        <locale>ja_JP</locale>
+    </localeEntry>
 </locales>
